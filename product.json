@@ -23,9 +23,25 @@
     {"id":"prod-11754643-017","name":"Premium Item 17","category":"home","price":425.08,"stock":184,"rating":1.8}
   ],
   "aggregations": {
-    "electronics": {
-      "count": 4,
-      "inventoryValue": 61764.30
-    }
+  "electronics": {
+    "count": 4,
+    "inventoryValue": 61764.30
+  },
+  "clothing": {
+    "count": 1,
+    "inventoryValue": 189.69
+  },
+  "home": {
+    "count": 3,
+    "inventoryValue": 164735.92
+  },
+  "books": {
+    "count": 3,
+    "inventoryValue": 65817.52
+  },
+  "sports": {
+    "count": 6,
+    "inventoryValue": 180665.16
   }
+}
 }
