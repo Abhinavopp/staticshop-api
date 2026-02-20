@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "email": "24f3002810@ds.study.iitm.ac.in",
+    "version": 11754643,
+    "generatedAt": "2026-02-20"
+  },
+  "products": [
+    {"id":"prod-11754643-001","name":"Elite Item 1","category":"home","price":405.48,"stock":160,"rating":2.8},
+    {"id":"prod-11754643-002","name":"Elite Item 2","category":"books","price":360.71,"stock":131,"rating":3.4},
+    {"id":"prod-11754643-003","name":"Premium Item 3","category":"home","price":171.4,"stock":114,"rating":3.4},
+    {"id":"prod-11754643-004","name":"Basic Item 4","category":"electronics","price":168.09,"stock":4,"rating":4.5},
+    {"id":"prod-11754643-005","name":"Premium Item 5","category":"sports","price":20.81,"stock":191,"rating":1.9},
+    {"id":"prod-11754643-006","name":"Elite Item 6","category":"sports","price":36.53,"stock":109,"rating":4.0},
+    {"id":"prod-11754643-007","name":"Elite Item 7","category":"sports","price":79.7,"stock":160,"rating":1.2},
+    {"id":"prod-11754643-008","name":"Premium Item 8","category":"clothing","price":63.23,"stock":3,"rating":3.4},
+    {"id":"prod-11754643-009","name":"Elite Item 9","category":"electronics","price":281.92,"stock":163,"rating":3.6},
+    {"id":"prod-11754643-010","name":"Pro Item 10","category":"electronics","price":36.06,"stock":85,"rating":1.3},
+    {"id":"prod-11754643-011","name":"Basic Item 11","category":"electronics","price":464.38,"stock":26,"rating":4.5},
+    {"id":"prod-11754643-012","name":"Pro Item 12","category":"books","price":232.31,"stock":62,"rating":3.8},
+    {"id":"prod-11754643-013","name":"Basic Item 13","category":"sports","price":450.65,"stock":175,"rating":3.6},
+    {"id":"prod-11754643-014","name":"Elite Item 14","category":"sports","price":277.02,"stock":9,"rating":4.7},
+    {"id":"prod-11754643-015","name":"Standard Item 15","category":"books","price":41.09,"stock":101,"rating":4.4},
+    {"id":"prod-11754643-016","name":"Premium Item 16","category":"sports","price":497.08,"stock":161,"rating":2.7},
+    {"id":"prod-11754643-017","name":"Premium Item 17","category":"home","price":425.08,"stock":184,"rating":1.8}
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 4,
+      "inventoryValue": 61764.30
+    }
+  }
+}
